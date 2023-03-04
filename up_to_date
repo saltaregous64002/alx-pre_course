@@ -1,0 +1,6 @@
+Open github on github.com
+login to your account or clone your existing repo to your local or remote machine (on a sandbox in alx evn. for instance)
+create your repository and any directories needed.You can do this by using the command cd <repository>, mkdir <directory name>
+create file. For example: touch README.md. Use vi to edit the file and use cat <filename> to view file contents
+All these can be done in a terminal interface on a local machine, then add, commit and push to github
+Any updates must be added,committed, pushed to github. For examples: "git add .", "git push .", "git commit -m 'my commits'"
